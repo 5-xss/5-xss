@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24" />
 
 - 🔭 I’m currently working on **My Game**
 
